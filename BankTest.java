@@ -22,5 +22,10 @@ public class BankTest {
         // Total
         user1.total();
         user2.total();
+
+        // All total
+        user1.getAll();
+        user2.getAll();
     }
 }
+
